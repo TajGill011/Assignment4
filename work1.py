@@ -8,5 +8,5 @@ b = input("Please enter a integer:\n") #Stores the user input as B
 print(f"\033[1;31;40m{b}") #Prints the user input
 print(f'\033[0;37;40mYou entered "{b}" and its type is {type(b)}')#Prints what the user entered as the input in white and its type
 
-#Revision number 1 09/28/2022
+#Revision number 1 09/27/2022
 #End Sartaj Gill 
